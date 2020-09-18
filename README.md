@@ -3,7 +3,7 @@ first project
 <!DOCTYPE html>
 <html>
 <style>  
- header {
+ h1 {
   font-family:arial;
     }
  
