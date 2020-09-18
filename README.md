@@ -4,7 +4,8 @@ first project
 <html>
 <style>  
  header {
-  font-family:arial
+  font-family:arial;
+    }
  
   
  </style> 
@@ -12,3 +13,10 @@ first project
   <header>
   <h1> Tom Ventura </h1>
   </header>
+
+
+
+
+
+
+</html>
